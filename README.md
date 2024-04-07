@@ -1,5 +1,5 @@
 # Laptop Wallpaper
-[![ci](https://github.com/ttiimmothy/laptop_wallpaper/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/laptop_wallpaper/actions/workflows/ci.yml)
+[![ci](https://github.com/ttiimmothy/laptop-wallpaper/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/laptop-wallpaper/actions/workflows/ci.yml)
 
 Laptop Wallpaper is for storing some laptop wallpapers.
 
